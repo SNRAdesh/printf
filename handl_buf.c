@@ -1,7 +1,6 @@
-
-
+#include "main.h"
 /**
- * handl_buf - concatenates the buffer characters
+ * handl_buf - concatenating the buffer characters
  * @buf: buffer pointer
  * @c: charcter to concatenate each format
  * @ibuf: index of buffer pointer
