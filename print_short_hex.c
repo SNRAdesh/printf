@@ -1,4 +1,4 @@
-
+#include "main.h"
 
 /**
  * prinhhex - printing a short decimal in hexadecimal
