@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * print_hex - printing decimal in hexadecimal
  * @arguments: input string
