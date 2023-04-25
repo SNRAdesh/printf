@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * fill_hex_array - writing the character c to stdout
  * @bnr: array where is stored the binary.
