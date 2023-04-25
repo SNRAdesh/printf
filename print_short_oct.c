@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * prinhoct - printing long decimal number in octal
  * @arguments: input number
