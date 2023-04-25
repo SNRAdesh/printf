@@ -1,5 +1,4 @@
-
-
+#include "main.h"
 /**
  * fill_binary_array - prints decimal in binary
  * @binary: pointer to binary
