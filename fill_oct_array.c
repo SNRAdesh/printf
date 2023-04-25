@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * fill_oct_array - writing the character c to stdout
  *
