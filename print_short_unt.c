@@ -1,4 +1,4 @@
-
+#include "main.h"
 
 /**
  * prinhunt - printing an unsigned short int
