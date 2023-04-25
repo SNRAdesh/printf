@@ -1,6 +1,7 @@
+#include "main.h"
 
 /**
- * prinlunt - prints a long unsigned integer
+ * prinlunt - printing a long unsigned integer
  * @arguments: number to print
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
