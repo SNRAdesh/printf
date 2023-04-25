@@ -1,6 +1,7 @@
+#include "main.h"
 
 /**
- * prinhint - prints a short integer
+ * prinhint - printing a short integer
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
