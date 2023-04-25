@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * prinpint - printing integer with plus symbol
  * @arguments: input string
