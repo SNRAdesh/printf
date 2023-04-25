@@ -1,4 +1,4 @@
-
+#include "main.h"
 
 /**
  * print_str - writing the string to stdout
