@@ -1,4 +1,4 @@
-
+#include "main.h"
 
 /**
  * prinnhex - printing numb in hex begining with zero
