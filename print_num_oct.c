@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * prinnoct - printing number in octal begining with zero
  * @arguments: input string
