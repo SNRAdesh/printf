@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * print_buf - printing the all buffer
