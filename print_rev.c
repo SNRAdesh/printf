@@ -1,7 +1,7 @@
-
+#include "main.h"
 
 /**
- * print_rev - writes the str in reverse
+ * print_rev - writing the str in reverse
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
