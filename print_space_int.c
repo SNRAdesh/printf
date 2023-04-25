@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * prinsint - printing int begining with space
  * @arguments: input string
