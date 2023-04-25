@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * prinlupx - printing long decimal in hexadecimal
  * @arguments: The character to print
