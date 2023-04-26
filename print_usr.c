@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * print_usr - printing a string and values of
